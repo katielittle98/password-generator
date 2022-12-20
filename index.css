@@ -1,0 +1,55 @@
+* {
+    margin: auto;
+}
+
+
+
+body {
+    padding: 70px;
+    text-align: center;
+    background-color: #27435E;
+    font-weight: bold;
+}
+
+h3, h4 {
+    color: white;
+    padding: 20px;
+}
+
+h1, span {
+    color: #699985;
+}
+
+#btn {
+    background-color: #699985;
+    color: white;
+    border: none;
+    width: 130px;
+    padding: 6px;
+    margin: 10px;
+}
+
+#btn:hover {
+    color: #699985;
+    background-color: white;
+}
+
+.container {
+    padding: 20px;
+    width: 35%;
+    margin: auto;
+    text-align: center;
+    display: grid;
+
+}
+
+#pass1, #pass2 {
+    columns: 1;
+    color: black;
+    padding: 10px;
+    width: 300px;
+}
+
+#opt1, #opt2 {
+    color: white;
+}
